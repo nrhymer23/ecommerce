@@ -15,7 +15,7 @@ export default {
         {
             name: 'name',
             title: 'Name',
-            type: 'String',
+            type: 'string',
         },
         {
             name: 'slug',
@@ -34,7 +34,7 @@ export default {
         {
             name: 'details',
             title: 'Details',
-            type: 'String',
+            type: 'string',
         }
     ]
 }
